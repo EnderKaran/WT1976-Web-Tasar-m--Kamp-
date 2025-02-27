@@ -29,10 +29,6 @@ Bu ödev sayesinde öğrenciler, jQuery kütüphanesini etkili bir şekilde kull
 
 ## Katkıda Bulunma
 
-Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir çekme isteği (pull request) oluşturun. Katkılarınızı değerli bulacağız!
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir çekme isteği (pull request) oluşturun.
 
 ---
